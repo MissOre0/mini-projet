@@ -1,6 +1,9 @@
 # mini-projet
 Jeu de données banque
-pip
+
+utilisation de python 3
+pip install -r requirements.txt
+
 #Librairies à télécharger:
 pandas
 numpy
